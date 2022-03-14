@@ -1,0 +1,3 @@
+#!/Users/Project/278161009/Github/python/GFPGAN/test/bin/python
+from numba.pycc import main
+main()

@@ -2,6 +2,11 @@
   <img src="assets/gfpgan_logo.png" height=130>
 </p>
 
+
+
+
+
+
 ## <div align="center"><b><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></b></div>
 
 [![download](https://img.shields.io/github/downloads/TencentARC/GFPGAN/total.svg)](https://github.com/TencentARC/GFPGAN/releases)

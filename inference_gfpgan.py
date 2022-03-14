@@ -6,6 +6,10 @@ import os
 import torch
 from basicsr.utils import imwrite
 
+import ssl
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
 from gfpgan import GFPGANer
 
 
